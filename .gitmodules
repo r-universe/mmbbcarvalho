@@ -3,8 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ASSA"]
+	path = ASSA
+	url = https://github.com/cran/ASSA
+	shallow = true
+	registered = true
+[submodule "DATAstudio"]
+	path = DATAstudio
+	url = https://github.com/cran/DATAstudio
+	shallow = true
+	registered = true
 [submodule "extremis"]
 	path = extremis
 	url = https://github.com/mmbbcarvalho/extremis
+	shallow = true
+	registered = true
+[submodule "spearmanCI"]
+	path = spearmanCI
+	url = https://github.com/cran/spearmanCI
 	shallow = true
 	registered = true
